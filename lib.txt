@@ -3,3 +3,4 @@ source env/bin/activate
 pip install numpy pandas matplotlib
 pip install jupyter
 pip install kaggle => library for download data set 
+pip install nltk => library for remove stop words
