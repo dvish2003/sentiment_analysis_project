@@ -4,3 +4,5 @@ pip install numpy pandas matplotlib
 pip install jupyter
 pip install kaggle => library for download data set 
 pip install nltk => library for remove stop words
+pip install scikit-learn =>. devided dataset
+pip install imbalanced-learn
